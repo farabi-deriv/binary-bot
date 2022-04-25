@@ -17,7 +17,7 @@ body {
 #header {
     height: 81px;
     width: 100%;
-    background-color: #2a3052;
+    background-color: #e98024;
     border-top: 2px solid #394171;
     border-bottom: 4px solid #e98024;
 }
@@ -27,9 +27,9 @@ body {
     margin: 0 auto;
 }
 #topbar {
-    background-color: #15212d;
+    background-color: #e98024;
     width: 100%;
-    color: #fff;
+    color: rgb(255, 34, 34);
     line-height: 1;
     font-size: 70%;
     text-align: right;
@@ -49,7 +49,7 @@ body {
     vertical-align: top;
 }
 .right img {
-    width: 200%;
+    width: 300%;
 }
 .cta {
     margin: 30px auto;
@@ -79,7 +79,8 @@ ul.bullet {
     clear: both;
 }
 .button span {
-    text-transform: inherit !important;
+    text-transform: inherit;
+    color: #e98024;
 }
 .show-on-load {
     display: none;
